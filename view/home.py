@@ -1,3 +1,4 @@
+#this is the home of the quiz app. this ius the code for the view
 import tkinter as tk
 
 
